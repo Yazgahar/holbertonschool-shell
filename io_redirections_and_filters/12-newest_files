@@ -1,2 +1,2 @@
 #!/bin/bash
-alias lll -n 10 | tail
+alias lll | head -n 10
