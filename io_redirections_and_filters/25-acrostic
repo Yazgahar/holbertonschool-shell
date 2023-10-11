@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/\(.\)[^ ]* */\1/g'
+cut -c 1 | tr -d '\n'
