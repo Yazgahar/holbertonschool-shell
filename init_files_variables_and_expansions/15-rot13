@@ -1,2 +1,2 @@
-#/bin/bash
+#!/bin/bash
 cat *.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
